@@ -1,7 +1,0 @@
-wjh21 wjh21123456
-https://github.com/wjh21/myGit.git
-cmd«Â∆¡---- ‰»Îcls
-1°¢D:\vuecode\myGit\git init
-git config --global user.name "wjh21"
-git config --global user.email "438301646@qq.com"
-cd ~/.ssh
